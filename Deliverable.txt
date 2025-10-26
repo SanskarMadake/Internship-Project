@@ -1,0 +1,7 @@
+✅ Deliverables Summary
+Deliverable		Description
+SQL Schema		Users, Categories, Income, Expenses tables
+Dummy Data		Insert sample users, income, and expenses
+Queries	        	Monthly totals, category-wise summary
+View	        	Monthly_Balance for tracking
+Report Export		Save reports in CSV format
